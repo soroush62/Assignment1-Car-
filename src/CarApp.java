@@ -6,10 +6,7 @@ public class CarApp {
 		Car car1 = new Car();
 		Car car2 =new Car("BMW");
 		Car car3 =new Car("Audi","Black");
-//		if (car1.isOn)
-//		{
-//			System.out.println("The car1 is SwithOn");
-//		}
+
 
 		//Assigning method to objects
 //		car1.printData();
