@@ -18,10 +18,7 @@ public class CarApp {
 //		{
 //			System.out.println("The car1 is SwithOff");
 //		}
-//		if (car2.isOn==false)
-//		{
-//			System.out.println("The car2 is SwithOff");
-//		}
+
 		//Assigning method to objects
 //		car1.printData();
 		car2.printData();
